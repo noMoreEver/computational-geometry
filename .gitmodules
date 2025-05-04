@@ -1,0 +1,3 @@
+[submodule "2.1线段相交/平面扫描/SegmentsIntersection"]
+	path = 2.1线段相交/平面扫描/SegmentsIntersection
+	url = https://github.com/johnhany/SegmentsIntersection
